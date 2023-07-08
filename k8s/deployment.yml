@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: api
-        image: lucasmagalhaes88/first-api:1.2
+        image: lucasmagalhaes88/first-api:5dcbeee
         ports:
         - containerPort: 8000
